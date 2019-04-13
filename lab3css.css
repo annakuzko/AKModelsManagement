@@ -1,0 +1,47 @@
+body {
+margin: 0;
+padding: 0;
+}
+.H1 { 
+	margin-top: 0; 
+	text-align: center;
+	}
+
+.nav {
+	height: 50px;
+background: #e6e6fa;  /* fallback for old browsers */
+
+}
+.H2 { 
+	margin-top: 0; 
+	text-align: center;
+	}
+
+.nav {
+	height: 50px;
+background: #e6e6fa;  /* fallback for old browsers */
+.H3 { 
+	margin-top: 0; 
+	text-align: center;
+	}
+
+.nav {
+	height: 50px;
+background: #e6e6fa;  /* fallback for old browsers */
+
+}
+
+}
+.navigate_Li li{
+
+	list-style: none;
+	float: left;
+	text-align: center;
+	margin: 5px 3%;
+
+}
+.MainText {
+	font-size: 20px;
+	background: #ffe4e1;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #c0392b);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #c0392b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
