@@ -1,0 +1,28 @@
+.nav {
+	height: 50px;
+background: #00F260;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #74ebd5, #ACB6E5);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #74ebd5, #ACB6E5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.navigate_Li li{
+	list-style: none;
+	float: left;
+	text-align: center;
+	margin-left: 47%;
+}
+.Register{
+	margin:5px;
+}
+.Register input {
+	margin: 10px;
+}
+.Register button {
+	margin: 10px;
+}
+body {
+background: #74ebd5;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ACB6E5, #74ebd5);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ACB6E5, #74ebd5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
